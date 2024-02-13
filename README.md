@@ -11,7 +11,7 @@ Here are some screenshots of the application:
 ![Screenshot 3](https://github.com/GehlotGaurav/bankapp/assets/75985096/a04b75d4-acff-452f-b115-5294dc887738)
 ![Screenshot 4](https://github.com/GehlotGaurav/bankapp/assets/75985096/f551a75c-1574-49b9-8e18-6578cd002eff)
 ![Screenshot 5](https://github.com/GehlotGaurav/bankapp/assets/75985096/2905c7ee-0b6c-4af5-954d-b9a585181170)
-![Screenshot 6](https://github.com/GehlotGaurav/bankapp/assets/75985096/df67b955-42f0-4c0c-9bc4-731aa6d2d8af)
+![Screenshot 6](https://github.com/GehlotGaurav/bankapp/assets/75985096/c074b742-cc3b-4c83-93e6-1dc0d8fbc0c2)
 ![Screenshot 7](https://github.com/GehlotGaurav/bankapp/assets/75985096/8ab50af4-6ad2-4ccd-b99a-a603f4da52b7)
 ![Screenshot 8](https://github.com/GehlotGaurav/bankapp/assets/75985096/4b469d8f-9a43-4e13-8883-83bff0b04ffb)
 ![Screenshot 9](https://github.com/GehlotGaurav/bankapp/assets/75985096/f85b0676-11b1-4c57-baae-d100a8613e51)
