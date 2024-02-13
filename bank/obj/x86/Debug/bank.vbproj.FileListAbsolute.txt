@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\final\bank\bank\bin\Debug\bank.exe
+C:\Users\HP\Desktop\final\bank\bank\bin\Debug\bank.pdb
+C:\Users\HP\Desktop\final\bank\bank\bin\Debug\bank.xml
+C:\Users\HP\Desktop\final\bank\bank\obj\x86\Debug\bank.Resources.resources
+C:\Users\HP\Desktop\final\bank\bank\obj\x86\Debug\bank.vbproj.GenerateResource.Cache
+C:\Users\HP\Desktop\final\bank\bank\obj\x86\Debug\bank.exe
+C:\Users\HP\Desktop\final\bank\bank\obj\x86\Debug\bank.xml
+C:\Users\HP\Desktop\final\bank\bank\obj\x86\Debug\bank.pdb
+C:\Users\HP\Desktop\final\bank\bank\obj\x86\Debug\bank.Login.resources
+C:\Users\HP\Desktop\final\bank\bank\obj\x86\Debug\bank.Register.resources
+C:\Users\HP\Desktop\final\bank\bank\obj\x86\Debug\bank.Password.resources
+C:\Users\HP\Desktop\final\bank\bank\obj\x86\Debug\bank.Deposit.resources
+C:\Users\HP\Desktop\final\bank\bank\obj\x86\Debug\bank.Withdraw.resources
+C:\Users\HP\Desktop\final\bank\bank\obj\x86\Debug\bank.Search.resources
